@@ -1,7 +1,9 @@
 <!-- stats.... -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IVSOP&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IVSOP&layout=compact&theme=github_dark&hide_border=true&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
 <!-- normal || compact || donut || donut-vertical || pie  https://github.com/anuraghazra/github-readme-stats#customization-->
+
+(HTML and CSS removed due to doxygen polluting it etc.)
 
 ## University Projects
 | Class | Description | Language | Grade |
