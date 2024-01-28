@@ -5,7 +5,7 @@
 
 <sup>(HTML and CSS removed due to doxygen polluting it etc.)</sup>
 
-## Other Projects
+## Personal Projects
 
 [Particles](https://github.com/IVSOP/Particles) - Animating particles using verlet integration
 
