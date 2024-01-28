@@ -5,6 +5,10 @@
 
 <sup>(HTML and CSS removed due to doxygen polluting it etc.)</sup>
 
+## Other Projects
+
+[Particles](https://github.com/IVSOP/Particles) - Animating particles using verlet integration
+
 ## University Projects
 | Class | Description | Language | Grade |
 | ------------- | ------------- | ------------- | ------------- |
@@ -17,7 +21,3 @@
 <!-- RC 18.62 -->
 <!-- li3 foi roubado, melhor perf -->
 <!-- sd unico com aquela nota -->
-
-## Other Projects
-
-[Particles](https://github.com/IVSOP/Particles) - Animating particles using verlet integration
