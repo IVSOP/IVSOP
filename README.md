@@ -19,7 +19,8 @@
 | [Laboratórios de Informática III](https://github.com/IVSOP/LI3)  | Efficient database queries / encapsulation | C | 19 |
 | [Sistemas Operativos](https://github.com/IVSOP/ProjetoSO)  | Process executing and logging | C | 19 |
 | [Sistemas Distribuídos](https://github.com/IVSOP/projeto-sd)  | N clients - 1 Server - N workers | Java | 20 |
+| [Comunicações por Computador](https://github.com/IVSOP/CC) | Torrenting UPD/TCP | C++ | 19 |
 <!-- mnol????? 20 -->
 <!-- RC 18.62 -->
 <!-- li3 foi roubado, melhor perf -->
-<!-- sd unico com aquela nota -->
+
