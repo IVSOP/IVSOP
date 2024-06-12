@@ -11,6 +11,8 @@
 
 [Rofi-Themer](https://github.com/IVSOP/Rofi-Themer) - Using rofi for interactive menus to select themes
 
+WIP - Voxel Engine
+
 ## University Projects
 | Class | Description | Language | Grade |
 | ------------- | ------------- | ------------- | ------------- |
@@ -21,6 +23,7 @@
 | [Sistemas Distribuídos](https://github.com/IVSOP/projeto-sd)  | N clients - 1 Server - N workers | Java | 20 |
 | [Comunicações por Computador](https://github.com/IVSOP/CC) | Torrenting UPD/TCP | C++ | 19 |
 | [Interface Pessoa-Máquina](https://github.com/IVSOP/IPM) | Mechanic shop website | HTML + CSS + JS + Vue | 20 |
+| [Computação gráfica](https://github.com/IVSOP/CG) | Graphics engine using OpenGL | C++ + GLSL | 20 |
 <!-- mnol????? 20 -->
 <!-- RC 18.62 -->
 <!-- li3 foi roubado, melhor perf -->
