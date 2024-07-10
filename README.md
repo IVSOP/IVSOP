@@ -11,7 +11,7 @@
 
 [Rofi-Themer](https://github.com/IVSOP/Rofi-Themer) - Using rofi for interactive menus to select themes
 
-[VoxelEngine (work in progress)](https://github.com/IVSOP/VoxelEngine) - Voxel engine with binary greedy meshing and agressive optimizations
+[VoxelEngine](https://github.com/IVSOP/VoxelEngine) - Voxel engine with binary greedy meshing and agressive optimizations
 
 ## University Projects
 | Class | Description | Language | Grade |
