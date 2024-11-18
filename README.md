@@ -1,9 +1,10 @@
 <!-- stats.... -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IVSOP&layout=compact&theme=github_dark&hide_border=true&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IVSOP&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- &hide=CSS,HTML -->
 <!-- normal || compact || donut || donut-vertical || pie  https://github.com/anuraghazra/github-readme-stats#customization-->
 
-<sup>(HTML and CSS removed due to doxygen polluting it etc.)</sup>
+<!-- <sup>(HTML and CSS removed due to doxygen polluting it etc.)</sup> -->
 
 ## Personal Projects
 
