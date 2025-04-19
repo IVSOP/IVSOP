@@ -16,7 +16,9 @@
 
 [Marching Cubes Engine](https://github.com/IVSOP/MarchingCubes) - 3D game engine with marching cubes, ECS, audio and physics
 
-[Tanks](https://ivsop.github.io/TanksDev) - 3D battle tank shooter made with bevy
+[Tanks](https://ivsop.github.io/TanksDev) - 3D battle tank shooter prototype made with bevy
+
+[Bevy tech demo](https://ivsop.github.io/bevy_demo_dev) - Demo of game features I have been working on, in bevy
 
 ## University Projects
 | Class | Description | Language | Grade |
