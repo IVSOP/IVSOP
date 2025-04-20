@@ -8,6 +8,8 @@
 
 ## Personal Projects
 
+A better description of these projects is available [here](https://ivsop.github.io/projects)
+
 [Particles](https://github.com/IVSOP/Particles) - Animating particles using verlet integration
 
 [Rofi-Themer](https://github.com/IVSOP/Rofi-Themer) - Using rofi for interactive menus to select themes
