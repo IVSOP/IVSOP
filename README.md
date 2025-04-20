@@ -20,6 +20,8 @@
 
 [Bevy tech demo](https://ivsop.github.io/bevy_demo_dev) - Demo of game features I have been working on, in bevy
 
+[Raynaldo](https://github.com/IVSOP/raynaldo) - CPU ray tracer written in rust, using embree
+
 ## University Projects
 | Class | Description | Language | Grade |
 | ------------- | ------------- | ------------- | ------------- |
