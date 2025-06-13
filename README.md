@@ -8,7 +8,7 @@
 
 ## Personal Projects
 
-A better description of these projects is available [here](https://ivsop.github.io/projects)
+A better description of these projects is available [here](https://projects.ivsop.dev)
 
 [Particles](https://github.com/IVSOP/Particles) - Animating particles using verlet integration
 
@@ -18,9 +18,9 @@ A better description of these projects is available [here](https://ivsop.github.
 
 [Marching Cubes Engine](https://github.com/IVSOP/MarchingCubes) - 3D game engine with marching cubes, ECS, audio and physics
 
-[Tanks](https://ivsop.github.io/TanksDev) - 3D battle tank shooter prototype made with bevy
+[Tanks](https://tanks.ivsop.dev) - 3D battle tank shooter prototype made with bevy
 
-[Bevy tech demo](https://ivsop.github.io/bevy_demo_dev) - Demo of game features I have been working on, in bevy
+[Bevy tech demo](https://bevydemo.ivsop.dev) - Demo of game features I have been working on, in bevy
 
 [Raynaldo](https://github.com/IVSOP/raynaldo) - CPU ray tracer written in rust, using embree
 
