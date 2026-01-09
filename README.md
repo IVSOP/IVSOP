@@ -6,6 +6,18 @@
 
 <!-- <sup>(HTML and CSS removed due to doxygen polluting it etc.)</sup> -->
 
+## Web3 - Solana
+
+NFT Marketplace - Robust, fast and flexible NFT marketplace, written using pinocchio and typescript. Source unavailable for now.
+
+[NFT robber](https://github.com/IVSOP/nft_robber) - Leverages surfpool to change binary data of accounts, changing ownership and authority of NFTs for local testing.
+
+[Fast ATA](https://github.com/IVSOP/fast_ata_pinocchio) - Pinocchio utility for computing and creating ATA accounts, giving you control over the bumps.
+
+[MPL Core Pinocchio](https://github.com/IVSOP/mpl_core_pinocchio) - Pinocchio utility for interacting with Metaplex Core, as well as custom deserialization and serialization of Core NFTs and Core Collections.
+
+[pNFT Pinocchio](https://github.com/IVSOP/pnft_pinocchio) - Pinocchio utility for interacting with Metaplex Metadata, specifically the Programmable NFT features. Also has custom deserialization and serialization of NFTs and Metadata accounts.
+
 ## Personal Projects
 
 A better description of these projects is available [here](https://projects.ivsop.dev)
