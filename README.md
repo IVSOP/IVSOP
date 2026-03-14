@@ -6,6 +6,32 @@
 
 <!-- <sup>(HTML and CSS removed due to doxygen polluting it etc.)</sup> -->
 
+## Projects - [https://projects.ivsop.dev](https://projects.ivsop.dev)
+
+<table>
+  <tr>
+    <td width="100" valign="top"><img src="images/eggy_league.jpg" width="100"/></td>
+    <td valign="top"><b><a href="https://x.com/EggyLeague">Eggy League</a></b><br/>fully on-chain multiplayer soccer game - Matrix Hackathon winner of the MagicBlock track</td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><img src="images/marching-cubes.jpg" width="100"/></td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/MarchingCubes">Marching Cubes Game Engine</a></b><br/>3D game engine with marching cubes, ECS, audio and physics</td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><img src="images/particles.jpg" width="100"/></td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/Particles">Particle Simulator</a></b><br/>Deterministic GPU-driven particle simulator that can render images using particles</td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><img src="images/raynaldo.jpg" width="100"/></td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/raynaldo">Raynaldo</a></b><br/>CPU ray tracer written in rust, using embree</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://projects.ivsop.dev">See more</a>
+    </td>
+  </tr>
+</table>
+
 ## Web3 - Solana
 
 NFT Marketplace - Robust, fast and flexible NFT marketplace, written using pinocchio and typescript. Source unavailable for now.
@@ -18,25 +44,7 @@ NFT Marketplace - Robust, fast and flexible NFT marketplace, written using pinoc
 
 [pNFT Pinocchio](https://github.com/IVSOP/pnft_pinocchio) - Pinocchio utility for interacting with Metaplex Metadata, specifically the Programmable NFT features. Also has custom deserialization and serialization of NFTs and Metadata accounts.
 
-## Personal Projects
-
-A better description of these projects is available [here](https://projects.ivsop.dev)
-
-[Particles](https://github.com/IVSOP/Particles) - Animating particles using verlet integration
-
-[Rofi-Themer](https://github.com/IVSOP/Rofi-Themer) - Using rofi for interactive menus to select themes
-
-[VoxelEngine](https://github.com/IVSOP/VoxelEngine) - Voxel engine with binary greedy meshing and agressive optimizations
-
-[Marching Cubes Engine](https://github.com/IVSOP/MarchingCubes) - 3D game engine with marching cubes, ECS, audio and physics
-
-[Tanks](https://tanks.ivsop.dev) - 3D battle tank shooter prototype made with bevy
-
-[Bevy tech demo](https://bevydemo.ivsop.dev) - Demo of game features I have been working on, in bevy
-
-[Raynaldo](https://github.com/IVSOP/raynaldo) - CPU ray tracer written in rust, using embree
-
-## University Projects
+## University
 | Class | Description | Language | Grade |
 | ------------- | ------------- | ------------- | ------------- |
 | [Laboratórios de Informática I](https://github.com/IVSOP/Projeto-LI1)  | Box Dude game | Haskell | 20 |
