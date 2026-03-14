@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td width="100" valign="top"><img src="images/particles.jpg" width="100"/></td>
-    <td valign="top"><b><a href="https://github.com/IVSOP/Particles">Particle Simulator</a></b><br/>Deterministic GPU-driven particle simulator that can render images using particles</td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/Particles">Particlinator</a></b><br/>Deterministic GPU-driven particle simulator that can render images using particles</td>
   </tr>
   <tr>
     <td width="100" valign="top"><img src="images/raynaldo.jpg" width="100"/></td>
@@ -59,3 +59,23 @@ NFT Marketplace - Robust, fast and flexible NFT marketplace, written using pinoc
 <!-- mnol????? 20 -->
 <!-- RC 18.62 -->
 <!-- li3 foi roubado, melhor perf -->
+<!-- 
+Projeto Inf 17, foi fazer o site para interagir com zero knowledge por causa da energia
+
+ESR 19: streaming. pacotes sao routed por varios nodos de CDN, com partilha aonde for possivel, para ser mais eficiente possivel; usava broadcast ou la o que era
+
+VTR 19: https://github.com/IVSOP/particlinator
+
+VI 19: https://github.com/IVSOP/raynaldo
+
+VCPI 19: cyclegan https://github.com/IVSOP/VCPI-GAN
+
+SDGE 17: https://github.com/IVSOP/SD-chord  dht in erland
+
+CPAR 17: https://github.com/IVSOP/CPAR-1, paralelize fuild simulation
+
+PSD ???????????
+
+RAS ???????????
+
+-->
