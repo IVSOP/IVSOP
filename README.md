@@ -42,7 +42,9 @@ NFT Marketplace - Robust, fast and flexible NFT marketplace, written using pinoc
 
 [MPL Core Pinocchio](https://github.com/IVSOP/mpl_core_pinocchio) - Pinocchio utility for interacting with Metaplex Core, as well as custom deserialization and serialization of Core NFTs and Core Collections.
 
-[pNFT Pinocchio](https://github.com/IVSOP/pnft_pinocchio) - Pinocchio utility for interacting with Metaplex Metadata, specifically the Programmable NFT features. Also has custom deserialization and serialization of NFTs and Metadata accounts.
+[pNFT Pinocchio](https://github.com/IVSOP/pnft_pinocchio) - Pinocchio utility for interacting with Metaplex Metadata, specifically the Programmable NFT features. Also with custom deserialization and serialization of NFTs and Metadata accounts.
+
+[Eggy League](https://x.com/EggyLeague) - Fully on-chain multiplayer soccer game.
 
 ## University
 | Class | Description | Language | Grade |
@@ -74,8 +76,10 @@ SDGE 17: https://github.com/IVSOP/SD-chord  dht in erland
 
 CPAR 17: https://github.com/IVSOP/CPAR-1, paralelize fuild simulation
 
-PSD ???????????
+PSD igual a SDGE
 
-RAS ???????????
+RAS microservicos 17 prai
+
+ASCN nao vale a pena
 
 -->
