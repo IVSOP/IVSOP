@@ -1,6 +1,6 @@
 <!-- stats.... -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IVSOP&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IVSOP&layout=compact&theme=github_dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 <!-- &hide=CSS,HTML -->
 <!-- normal || compact || donut || donut-vertical || pie  https://github.com/anuraghazra/github-readme-stats#customization-->
 
