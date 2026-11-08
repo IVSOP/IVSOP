@@ -10,20 +10,24 @@
 
 <table>
   <tr>
+    <td width="100" valign="top"><img src="images/deform.jpg" width="100"/></td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/DeFORM">DeFORM</a></b><br/>Rust library for deterministic multiplayer games, with prediction and rollback over QUIC or fully on-chain on Solana</td>
+  </tr>
+  <tr>
     <td width="100" valign="top"><img src="images/eggy_league.jpg" width="100"/></td>
-    <td valign="top"><b><a href="https://x.com/EggyLeague">Eggy League</a></b><br/>fully on-chain multiplayer soccer game - Matrix Hackathon winner of the MagicBlock track</td>
+    <td valign="top"><b><a href="https://x.com/EggyLeague">Eggy League</a></b><br/>Fully on-chain multiplayer soccer game on Solana - MagicBlock track winner at the Matrix Hackathon</td>
   </tr>
   <tr>
     <td width="100" valign="top"><img src="images/marching-cubes.jpg" width="100"/></td>
-    <td valign="top"><b><a href="https://github.com/IVSOP/MarchingCubes">Marching Cubes Game Engine</a></b><br/>3D game engine with marching cubes, ECS, audio and physics</td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/MarchingCubes">Marching Cubes Game Engine</a></b><br/>3D game engine with marching cubes terrain, optimized rendering, ECS, physics and 3D audio</td>
   </tr>
   <tr>
     <td width="100" valign="top"><img src="images/particles.jpg" width="100"/></td>
-    <td valign="top"><b><a href="https://github.com/IVSOP/Particles">Particlinator</a></b><br/>Deterministic GPU-driven particle simulator that can render images using particles</td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/particlinator">Particlinator</a></b><br/>Deterministic GPU particle simulator in Rust that renders images using particles</td>
   </tr>
   <tr>
     <td width="100" valign="top"><img src="images/raynaldo.jpg" width="100"/></td>
-    <td valign="top"><b><a href="https://github.com/IVSOP/raynaldo">Raynaldo</a></b><br/>CPU ray tracer written in rust, using embree</td>
+    <td valign="top"><b><a href="https://github.com/IVSOP/raynaldo">Raynaldo</a></b><br/>CPU ray tracer in Rust, using Embree for BVH acceleration</td>
   </tr>
   <tr>
     <td>
@@ -33,6 +37,8 @@
 </table>
 
 ## Web3 - Solana
+
+[DeFORM](https://github.com/IVSOP/DeFORM) - Rust library for fully on-chain multiplayer games on Solana, with prediction and rollback netcode.
 
 NFT Marketplace - Robust, fast and flexible NFT marketplace, written using pinocchio and typescript. Source unavailable for now.
 
